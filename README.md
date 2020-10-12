@@ -1,2 +1,5 @@
 # hello-world
-Hello-world hehehe
+Hello-world
+
+Hi!
+My name is Maciek and I am a student of Warsaw School of Economics.
